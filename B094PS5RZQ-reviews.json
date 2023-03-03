@@ -1,0 +1,554 @@
+[
+  [
+    {
+      "title": "cat approves",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "victoria",
+      "body": "i’ve had it for 3 months and i have had any problems, and the led it still as bright! :>"
+    },
+    {
+      "title": "Bad scroll wheel",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Plain user",
+      "body": "all is good, except for the mouse wheel. Scroll gets really jumpy starting 2 months in. It works if "
+    },
+    {
+      "title": "My favorite mouse",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Pickypuppy",
+      "body": "This is my favorite mouse of all time. I have 3 as backups in case Razer every changes it. I have sm"
+    },
+    {
+      "title": "Solid for the price",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Amazon Customer",
+      "body": "I don't use this for gaming, as I'm not a gamer. I only use it for office work. Compared to any othe"
+    },
+    {
+      "title": "perfect mouse for gaming",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Krystle Garcia",
+      "body": "i’m so sad that you can’t change the color of the rgb in the mouse! ( i have other razor items ) but"
+    },
+    {
+      "title": "Squeaky Wheel",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "seamonkey10",
+      "body": "Seems like a good mouse, but the wheel squeaks like nails on a chalkboard, which leaves me with the "
+    },
+    {
+      "title": "Not sure if defective or just loud",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Grave",
+      "body": "Got this to replace a older $12 non name brand mouse had for a couple years that was starting to get"
+    },
+    {
+      "title": "Great beginners mouse",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Jeeper",
+      "body": "Great beginners mouse for people newer to PC gaming. It’s not too small or too big."
+    },
+    {
+      "title": "Fix your scroll wheels",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "D. Dube",
+      "body": "These things last a month before the scroll wheel starts acting out of wack. Scrolling down will som"
+    },
+    {
+      "title": "garbage sensor",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "gerg hoffley",
+      "body": "cheaper out on sensor"
+    }
+  ],
+  [
+    {
+      "title": "Better than more $$$ options",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "kelsey",
+      "body": "It's perfect for me. It's a bigger mouse and I love that. I have multiple more expensive Razer gamin"
+    },
+    {
+      "title": "First usage of 'better' mouse",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Amazon Richard",
+      "body": "I wanted to title this \"First usage of a high-end mouse\", but at this price, it isn't really high-en"
+    },
+    {
+      "title": "Scroll Wheel Jumps",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Ash",
+      "body": "After only a few months the scroll wheel jumps horribly. Razor support was very unhelpful. After sub"
+    },
+    {
+      "title": "Scroll wheel started malfunctioning after a few months of normal use",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Joshua H.",
+      "body": "I knew razer was cheap garbage but this really cemented it for me. I've had 5 dollar mice from no-na"
+    },
+    {
+      "title": "Very Very nice mouse",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Aidan",
+      "body": "This mouse is cheap but feels great! Not super heavy but not to light. I've had this mouse for 7 mou"
+    },
+    {
+      "title": "Good but has issues",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "William",
+      "body": "The mouse initially seems good. The ergonomic fit seems too ergonomic to the point it feels weird. B"
+    },
+    {
+      "title": "Scroll wheel issues",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Ryan M Titus",
+      "body": "Bought on OCT 26th 2022 and by FEB 22 2022 the scroll wheel is no longer working properly. Was havin"
+    },
+    {
+      "title": "Excellent budget mouse",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Zach",
+      "body": "Great mouse with a nice large size."
+    },
+    {
+      "title": "Good",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Brendan",
+      "body": "Had this mouse for 3 years now and the scroll wheel and right click sometimes double click or don't "
+    }
+  ],
+  [
+    {
+      "title": "Enjoyable!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "📖immersionreader🎧",
+      "body": "This mouse is price effective and very nice. Its the kind that fits your whole hand so it just sits "
+    },
+    {
+      "title": "Scroll Broken",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Frop",
+      "body": "I’ve had this thing a couple of months and when I try to scroll quickly it will go the other directi"
+    },
+    {
+      "title": "very good",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "WANG LU",
+      "body": "very good"
+    },
+    {
+      "title": "Not bad",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Robert Nellinger",
+      "body": "Not bad but feels really cheap"
+    },
+    {
+      "title": "Scroll wheel",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Z",
+      "body": "Scroll wheel started not working after 3 months"
+    },
+    {
+      "title": "Scroll wheel keeps scrolling the opposite direction after only 8 months",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Carmin",
+      "body": "After only 8 months, this mouse has already suffered problems with the scroll wheel scrolling the op"
+    },
+    {
+      "title": "Wheel is trash",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Giorgi tugushi",
+      "body": "after couple of months wheel is not working properly , also surface is a dust magnit. i think it is "
+    },
+    {
+      "title": "Died after return date",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Kindle Customer",
+      "body": "I bought this to replace my old one not only does it feel cheaper made from cord to everything. but "
+    },
+    {
+      "title": "An oldie but a goodie",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Ss",
+      "body": "Always like this mouse.Works great!"
+    },
+    {
+      "title": "Center wheel broke after 6 months",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Amazon Customer",
+      "body": "Great mouse but the center wheel broke after only owning it 6 months. I expect a mouse to last longe"
+    }
+  ],
+  [
+    {
+      "title": "El cable es muy rígido y el maus también",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "Ricardo Yalico Roncal",
+      "body": "No me gustó tener esa sensación de rigidez en el cable, juego con mi laptop y es muy difícil mover m"
+    },
+    {
+      "title": "scroll wheel broken, bad design",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Liu S.",
+      "body": "broken, asked for replacement, still broken. just poor design"
+    },
+    {
+      "title": "It okay",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Susan Mathis",
+      "body": "Feels weird holding it. Doesn’t contour to my hand. But I will deal with it."
+    },
+    {
+      "title": "Scroll Wheel immediately broke",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "mo",
+      "body": "Scroll wheel broke within a few weeks of use"
+    },
+    {
+      "title": "It is a mid mouse",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "Jackson O",
+      "body": "I like this mouse but it is all plastic and has only two programmable buttons. But It is a good prod"
+    },
+    {
+      "title": "Broke",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "armaan",
+      "body": "After using for about a week, it broke. I do not know why. It would not connect to my laptop so I ha"
+    },
+    {
+      "title": "Don’t listen to the other reviews!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Leon",
+      "body": ""
+    },
+    {
+      "title": "As advertised",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "crasher",
+      "body": "Mouse working like a mouse should :-)"
+    },
+    {
+      "title": "Almost perfect, scroll wheel broke 5 months in",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Amazon Reviewer Man",
+      "body": "Buttons on the side very large and comfortable to press while gaming, ergonomic design, neon green c"
+    },
+    {
+      "title": "Great",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "John A",
+      "body": "Like a charm!"
+    }
+  ],
+  [
+    {
+      "title": "it works and easy to setup",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "jeffrey k johns",
+      "body": "it works and easy to setup"
+    },
+    {
+      "title": "Scroll wheel broken in ~3 months",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Sam",
+      "body": "I really wish I could recommend this mouse. It was great when I got it: lightweight, matched my setu"
+    },
+    {
+      "title": "Don’t buy",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Pejsatch Presson",
+      "body": "My mouse came in the mail and didn’t work and I wasn’t refunded nor was I given a replacement do not"
+    },
+    {
+      "title": "good quality for the price <3",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Savannah",
+      "body": "would definitely recommend!"
+    },
+    {
+      "title": "Okay, but...",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "Nicholas Wingler",
+      "body": "I liked this mouse at first: it felt great, looked great, etc. However, after about 6 months or so t"
+    },
+    {
+      "title": "Why are people giving this 5 stars if the middle scroll wheel doesn't work?",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "upsidedowntriangle",
+      "body": "This mouse is unusable as its middle scroll wheel doesn't work properly. It will randomly scroll upw"
+    },
+    {
+      "title": "Doesn’t work",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Gregory Reyes",
+      "body": "Don’t work"
+    },
+    {
+      "title": "problem after 1 month",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Alex P",
+      "body": "I recently gave this as a birthday gift to my brother and fast forward a few weeks later I spoke to "
+    },
+    {
+      "title": "Easy to set up PnP all the way",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Jimmy Rosenberry",
+      "body": "I always bought a cheap mouse and never spent more than 20 USD when I see this mouse for around 20 U"
+    },
+    {
+      "title": "Mouse Wheel jumpy; can't open to clean",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Little Big Mac",
+      "body": "Bought from a gamestop. It looks like the back screw is underneath the plastic--can't be opened. Mou"
+    }
+  ],
+  [
+    {
+      "title": "Still works!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Kamel S. Kamel",
+      "body": "I think anyone who has ever purchased Razer products in the past can understand that lasting more th"
+    },
+    {
+      "title": "Worked great, but have wheel issue after 3 months",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Cong Bui",
+      "body": "The mouse worked great in the beginning (hence the 2 stars, otherwise 1) but now the wheel jumps unc"
+    },
+    {
+      "title": "Muy bueno",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Julián Aponte",
+      "body": "De muy buena calidad, muy estable y preciso. Lo mejor es el tamaño, adecuado para un hombre adulto."
+    },
+    {
+      "title": "Didnt last 2 months",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Jonathan",
+      "body": "In less than 2 months of daily use,the scroll wheel doesn't function properly.Every time I go to scr"
+    },
+    {
+      "title": "Love it",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Kaleb",
+      "body": "For someone who's a big gamer, this is one of my favorite brands to buy from. I love how their mouse"
+    },
+    {
+      "title": "My gamer husband really likes this mouse",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "iliketomakestuff",
+      "body": "My husband needed something simple and light, and this fits the bill."
+    },
+    {
+      "title": "Will not buy again!",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Katherine S. Moore",
+      "body": "This is the second Razer product I have bought and will be the last. Several months ago I bought a H"
+    },
+    {
+      "title": "Scroll wheel broke after 2.5 months",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Charles Myers",
+      "body": "Scrolling up scrolls down.Scrolling down scrolls up.Useless for scrolling means useless for gaming.P"
+    },
+    {
+      "title": "Scroll wheel",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "hunter lockhart",
+      "body": "Scroll wheel went bad really fast."
+    },
+    {
+      "title": "Good Mouse, Gets the Job Done",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Jeff",
+      "body": "I'm currently away from home due to my job, and i'll be away from home often because of it. So i nee"
+    }
+  ],
+  [
+    {
+      "title": "stops working after 2 days",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "jevontae carey",
+      "body": "stopped working for me after 2-3 days"
+    },
+    {
+      "title": "Uncomfortable and cheep plastic feeling",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "AGar",
+      "body": "Feels cheep. Uncomfortable to use. Weird shape. To top it off, synapse software doesn't recognize it"
+    },
+    {
+      "title": "Good",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Moe ALjaaf",
+      "body": "Good"
+    },
+    {
+      "title": "perfect",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "James",
+      "body": "Very cheap, but very easy to use"
+    },
+    {
+      "title": "Premium quality",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Logan",
+      "body": "1. Very good gamming mouse for the price2. Premium quality3. Works good for gaming4. Recommend this "
+    },
+    {
+      "title": "Too wide for my hand",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "CCC",
+      "body": "I have bigger than average hands but this mouse was uncomfortably wide. The mouse wheel is so wide t"
+    },
+    {
+      "title": "Great, but scroll wheel issues",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Stephen Ferguson",
+      "body": "Great until the scroll wheel starts messing up and requires disassemble and cleaning"
+    },
+    {
+      "title": "Great for my son's desk",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Dana M.",
+      "body": "He loves this mouse"
+    },
+    {
+      "title": "DO NOT BUY!",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Angry Lamar",
+      "body": "A few months in scrolling became unusable. It would jump around and often go the opposite direction "
+    },
+    {
+      "title": "Scroll wheel jumping after less than a year",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "KW",
+      "body": "While scrolling, the view jumps up and down. The scroll wheel sensor is clearly failing. Unfortunate"
+    }
+  ],
+  [
+    {
+      "title": "Maybe bad luck?",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "ChelBubbles",
+      "body": "I bought one of these mice almost a year ago and I ran into a problem where the scroll wheel would s"
+    },
+    {
+      "title": "Mac buyers beware- Control software not compatible with MacOS...",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "efm",
+      "body": "It's a fine mouse-works right out of the box on my MacBook Pro. However, the in-house mouse control "
+    },
+    {
+      "title": "After a Few Months, the Scroll Wheel Causes the Screen to Jump",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Rat Wrangler",
+      "body": "I've had this mouse for just over a year, and have had to disassemble it twice to clean the scroll w"
+    },
+    {
+      "title": "Good gaming mouse!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Rui Cao",
+      "body": "It is not too heavy or bug to hold, and it is smooth when using it! Definitely worth for buying!"
+    },
+    {
+      "title": "right button stopped working",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Ihor Lytvynov",
+      "body": "After 3 mouths right button stopped working"
+    },
+    {
+      "title": "Great mouse but short lifespan?",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Jordan Reger",
+      "body": "This mouse is a beautiful piece but it has weird scrolling issues, after barely a month? Worth every"
+    },
+    {
+      "title": "good",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "hitfzyangdianshi",
+      "body": "good"
+    },
+    {
+      "title": "Scroll button broke, and then kind of fixed itself. Don't Recommend",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "carguy22341",
+      "body": "The mouse is responsive enough but you have to sign into an account if you want to use some features"
+    },
+    {
+      "title": "Mouse wheel desgin is severely flawed",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Brian Simpson",
+      "body": "I do not recommend. Only my 4th month using this mouse on my desktop PC, and the scroll wheel is mal"
+    },
+    {
+      "title": "Mouse Wheel Breaks",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Cole",
+      "body": "Have purchased 2, both times the mouse wheel broke and stopped functioning properly."
+    }
+  ],
+  [
+    {
+      "title": "It's a mouse...",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "Bryan",
+      "body": "I got this for my office to replace my death adder elite that wasn't registering clicks anymore. Sin"
+    },
+    {
+      "title": "csgo",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Felipe Trew",
+      "body": "using for csgo, im a big guy with big hands, love the mouse so far."
+    },
+    {
+      "title": "Extremely good",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Stephanie",
+      "body": "Extremely nice mouse, perfect for the price."
+    },
+    {
+      "title": "Love it !!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Kyle Stocks",
+      "body": "Good and genuine product !! No issues and delivery was made in time !! Thank you so much Amazon !!"
+    },
+    {
+      "title": "Amazing !!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Kyle",
+      "body": "Thank you so much, really good product for gaming. Shipping was fast and delivery was done in time"
+    },
+    {
+      "title": "Double Clicking Menace",
+      "rating": "1.0 out of 5 stars",
+      "customer_id": "Matt Z.",
+      "body": "This mouse was fun for the few months I got to use it. Nice and ergonomic, satisfying to click and u"
+    },
+    {
+      "title": "Cheap and Good, extremely bad durability",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "Alex",
+      "body": "While this mouse feels so great, the durability on this thing, especially its wheel is so bad. I had"
+    },
+    {
+      "title": "Scroll wheel went bad. Fast.",
+      "rating": "2.0 out of 5 stars",
+      "customer_id": "Joshua E Smith",
+      "body": "I absolutely hate to write a bad review on a product but like a bunch of other people on the page, I"
+    },
+    {
+      "title": "Fits just right!!!!!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Ethan",
+      "body": "Right as I got it out the box I put in on my mouse pad and instantly my hand perfectly fits the mous"
+    },
+    {
+      "title": "Great mouse for the value.",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Happy Reader!",
+      "body": "I needed a high quality laser mouse. I play FPS games. Not \"professionally\" and I don't even intend "
+    }
+  ]
+]
