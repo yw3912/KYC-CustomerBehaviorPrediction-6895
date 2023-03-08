@@ -27,12 +27,16 @@ class Reviews:
             rating = review.find('i[data-hook = review-star-rating] span', first=True).text
             customer_id = review.find("div[data-hook = genome-widget] span", first=True).text
             body = review.find('span[data-hook = review-body] span', first=True)
+            # profile_link = review.find("div[data-hook = genome-widget] a.a-profile.href", first=True).text
+            profile_link = review.find("a.a-profile", first=True).attrs['href']
+
             if body is None:
                 continue
             body = body.text.replace('\n', '').strip()
 
-            # body[:100] means only take 100 chracters
-            data = {"title": title, "rating": rating, "customer_id": customer_id, "body": body[:100]}
+            # if body[:100] means only take 100 chracters
+            data = {"title": title, "rating": rating, "customer_id": customer_id, "body": body,
+                    "customer_profile_link": profile_link}
             total.append(data)
         return total
 
