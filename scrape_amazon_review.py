@@ -4,13 +4,14 @@ import time
 
 
 class Reviews:
-    def __init__(self, asin):
+    def __init__(self, asin, index):
         # asin is the amazon standard identification number
         self.asin = asin
         self.session = HTMLSession()
         self.headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36'}
         # careful that the sortBy and page number orders are switched compared to my real url
         self.url = f'https://www.amazon.com/product-reviews/{self.asin}/ref=cm_cr_arp_d_viewopt_srt?ie=UTF8&reviewerType=all_reviews&sortBy=helpful&pageNumber='
+        self.index = index
 
     def pagination(self, page):
         r = self.session.get(self.url + str(page))
@@ -61,41 +62,52 @@ class Reviews:
             # data = {"title": title, "rating": rating, "customer_id": customer_id, "body": body,
             #         "customer_profile_link": profile_link}
             data = {"title": title, "rating": rating, "customer_id": customer_id, "body": body,
-                    "people_count": people_count, "image_usage": whether_image, "written_date": date}
+                    "people_count": people_count, "image_usage": whether_image, "written_date": date,
+                    "product_index": self.index}
             total.append(data)
         return total
 
 
     def save(self, results):
-        # with open(self.asin + '-reviews.json', 'w') as f:
-        #     json.dump(results, f, ensure_ascii=False)
-        with open('collective-reviews.json', 'w') as f:
+        with open("json/" + self.asin + '-reviews.json', 'w') as f:
             json.dump(results, f, ensure_ascii=False)
+        # with open('collective-reviews.json', 'w') as f:
+        #     json.dump(results, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
     asin_list = ['B094PS5RZQ', "B01ASGKN8O", "B07NQJ4XM6", "B095YJW56C", "B07N2F3JXP", "B09223P6Q3", "B0859PX8H9",
                  "B00778B90S", "B007HJOQ0W", "B086Z79HXS", "B076CJFMT8"]
-    # asin_list = ['B094PS5RZQ']
-    results = []
-    for asin in asin_list:
-        amz = Reviews(asin)
-        # reviews = amz.pagination(1)
-        # print(amz.parse(reviews))
+    # asin_list = ['B007HJOQ0W']
+    # for i in range(len(asin_list)):
+    #     results = []
+    #     asin = asin_list[i]
+    #     amz = Reviews(asin, i)
+    #     # reviews = amz.pagination(1)
+    #     # print(amz.parse(reviews))
+    #
+    #     # # This 100 is caused by there is not enough space
+    #     # reviews = amz.pagination(100)
+    #     # print(reviews)
+    #
+    #     for x in range(1, 10):
+    #         print("getting page ", x)
+    #         time.sleep(0.3)
+    #         reviews = amz.pagination(x)
+    #         if reviews is not False:
+    #             results.append(amz.parse(reviews))
+    #         else:
+    #             print("no more pages")
+    #             break
+    #     # if asin == "B076CJFMT8":
+    #     #     amz.save(results)
+    #     amz.save(results)
 
-        # # This 100 is caused by there is not enough space
-        # reviews = amz.pagination(100)
-        # print(reviews)
-
-        for x in range(1, 10):
-            print("getting page ", x)
-            time.sleep(0.3)
-            reviews = amz.pagination(x)
-            if reviews is not False:
-                results.append(amz.parse(reviews))
-            else:
-                print("no more pages")
-                break
-        if asin == "B076CJFMT8":
-            amz.save(results)
-        # amz.save(results)
+    data = []
+    for name in asin_list:
+        address = "json/" + name + "-reviews.json"
+        with open(address, 'r') as f:
+            file_data = json.load(f)
+            data+=file_data
+    with open("final_file.json", "w") as v:
+        json.dump(data, v)
