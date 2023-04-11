@@ -110,4 +110,4 @@ if __name__ == '__main__':
             file_data = json.load(f)
             data+=file_data
     with open("final_file.json", "w") as v:
-        json.dump(data, v)
+        json.dump(data, v, ensure_ascii=False)
