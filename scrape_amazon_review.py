@@ -27,6 +27,9 @@ class Reviews:
             rating = review.find('i[data-hook = review-star-rating] span', first=True).text
             customer_id = review.find("div[data-hook = genome-widget] span", first=True).text
             body = review.find('span[data-hook = review-body] span', first=True)
+            if body is None:
+                continue
+            body = body.text.replace('\n', '').strip()
             people_count = review.find('span[data-hook = helpful-vote-statement]', first=True)
             if people_count is None:
                 people_count = 0
@@ -39,35 +42,44 @@ class Reviews:
                 else:
                     people_count = int(first_word)
 
-            img_src = review.find('img', {'data-hook': 'review-image-tile'})['src']
+            whether_image = 0
+            img_src = review.find('img[data-hook = review-image-tile]', first=True)
+            if img_src is not None:
+                whether_image = 1
+
+            date = review.find('span[data-hook = review-date]', first=True).text
+            index_of_On = date.index("on")
+            date = date[index_of_On+3:]
+
 
 
             # profile_link = review.find("div[data-hook = genome-widget] a.a-profile.href", first=True).text
             # profile_link = review.find("a.a-profile", first=True).attrs['href']
 
-            if body is None:
-                continue
-            body = body.text.replace('\n', '').strip()
+
 
             # data = {"title": title, "rating": rating, "customer_id": customer_id, "body": body,
             #         "customer_profile_link": profile_link}
             data = {"title": title, "rating": rating, "customer_id": customer_id, "body": body,
-                    "people_count": people_count}
+                    "people_count": people_count, "image_usage": whether_image, "written_date": date}
             total.append(data)
         return total
 
 
     def save(self, results):
-        with open(self.asin + '-reviews.json', 'w') as f:
+        # with open(self.asin + '-reviews.json', 'w') as f:
+        #     json.dump(results, f, ensure_ascii=False)
+        with open('collective-reviews.json', 'w') as f:
             json.dump(results, f, ensure_ascii=False)
 
 
 if __name__ == '__main__':
     asin_list = ['B094PS5RZQ', "B01ASGKN8O", "B07NQJ4XM6", "B095YJW56C", "B07N2F3JXP", "B09223P6Q3", "B0859PX8H9",
-                 "B00778B90S", "B007HJOQ0W", "B086Z79HXS"]
+                 "B00778B90S", "B007HJOQ0W", "B086Z79HXS", "B076CJFMT8"]
+    # asin_list = ['B094PS5RZQ']
     results = []
     for asin in asin_list:
-        amz = Reviews('B094PS5RZQ')
+        amz = Reviews(asin)
         # reviews = amz.pagination(1)
         # print(amz.parse(reviews))
 
@@ -84,5 +96,6 @@ if __name__ == '__main__':
             else:
                 print("no more pages")
                 break
-        if asin == "B086Z79HXS":
+        if asin == "B076CJFMT8":
             amz.save(results)
+        # amz.save(results)
