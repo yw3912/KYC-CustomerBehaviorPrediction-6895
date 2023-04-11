@@ -79,35 +79,35 @@ if __name__ == '__main__':
     asin_list = ['B094PS5RZQ', "B01ASGKN8O", "B07NQJ4XM6", "B095YJW56C", "B07N2F3JXP", "B09223P6Q3", "B0859PX8H9",
                  "B00778B90S", "B007HJOQ0W", "B086Z79HXS", "B076CJFMT8"]
     # asin_list = ['B007HJOQ0W']
-    # for i in range(len(asin_list)):
-    #     results = []
-    #     asin = asin_list[i]
-    #     amz = Reviews(asin, i)
-    #     # reviews = amz.pagination(1)
-    #     # print(amz.parse(reviews))
-    #
-    #     # # This 100 is caused by there is not enough space
-    #     # reviews = amz.pagination(100)
-    #     # print(reviews)
-    #
-    #     for x in range(1, 10):
-    #         print("getting page ", x)
-    #         time.sleep(0.3)
-    #         reviews = amz.pagination(x)
-    #         if reviews is not False:
-    #             results.append(amz.parse(reviews))
-    #         else:
-    #             print("no more pages")
-    #             break
-    #     # if asin == "B076CJFMT8":
-    #     #     amz.save(results)
-    #     amz.save(results)
+    for i in range(len(asin_list)):
+        results = []
+        asin = asin_list[i]
+        amz = Reviews(asin, i)
+        # reviews = amz.pagination(1)
+        # print(amz.parse(reviews))
 
-    data = []
-    for name in asin_list:
-        address = "json/" + name + "-reviews.json"
-        with open(address, 'r') as f:
-            file_data = json.load(f)
-            data+=file_data
-    with open("final_file.json", "w") as v:
-        json.dump(data, v, ensure_ascii=False)
+        # # This 100 is caused by there is not enough space
+        # reviews = amz.pagination(100)
+        # print(reviews)
+
+        for x in range(1, 10):
+            print("getting page ", x)
+            time.sleep(0.3)
+            reviews = amz.pagination(x)
+            if reviews is not False:
+                results.append(amz.parse(reviews))
+            else:
+                print("no more pages")
+                break
+        # if asin == "B076CJFMT8":
+        #     amz.save(results)
+        amz.save(results)
+
+    # data = []
+    # for name in asin_list:
+    #     address = "json/" + name + "-reviews.json"
+    #     with open(address, 'r') as f:
+    #         file_data = json.load(f)
+    #         data+=file_data
+    # with open("final_file.json", "w") as v:
+    #     json.dump(data, v, ensure_ascii=False)
