@@ -8,6 +8,15 @@ import emoji
 from lexical_diversity import lex_div as ld
 import textstat
 
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+import string
+
+import ssl
+
+
+
 import requests
 import time
 from bs4 import BeautifulSoup
@@ -21,13 +30,29 @@ first_date_available_list = ["June 1, 2021", "January 12, 2016", "February 14, 2
                              "February 1, 2012", "April 10, 2020", "October 11, 2017"]
 count_review = 0
 
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
+nltk.download('punkt')
+nltk.download('stopwords')
+
+stop_words = set(stopwords.words("english"))
+punctuation = set(string.punctuation)
+removing_words = stop_words | punctuation
+
 review_length_list = []
+count_keyword_list = []
 word_diversity_measure_list = []
 word_complexity_measure_list = []
 whether_image_list = []
 whether_emoji_list = []
 timing_list = []
 count_helpful_list = []
+
 
 
 def read_json(json_address):
@@ -47,6 +72,21 @@ def get_body_length(review_list):
     # point 1
     for entry in review_list:
         review_length_list.append(len(entry["body"].split(" ")))
+
+
+def get_keywords(review_list):
+    # point 2
+    keywords = []
+    for entry in review_list:
+        tokens = word_tokenize(entry["body"])
+        keywords.append([token for token in tokens if not token.lower() in removing_words])
+    return keywords
+
+
+def get_keywords_number(keywords):
+    # point 2
+    for ks in keywords:
+        count_keyword_list.append(len(ks))
 
 
 def get_word_diversity(review_list):
@@ -77,6 +117,7 @@ def get_whether_emoji(review_list):
                 break
         whether_emoji_list.append(0)
 
+
 def get_timing(review_list):
     # point 8
     for dictionary in review_list:
@@ -99,6 +140,8 @@ def buildup_dataset(review_list):
     get_count_review(review_list)
 
     get_body_length(review_list)
+    keywords = get_keywords(review_list)
+    get_keywords_number(keywords)
     get_word_diversity(review_list)
     get_word_complexity(review_list)
     get_whether_image(review_list)
@@ -106,6 +149,7 @@ def buildup_dataset(review_list):
     get_timing(review_list)
     get_count_helpful(review_list)
     print(review_length_list)
+    print(count_keyword_list)
     print(word_diversity_measure_list)
     print(word_complexity_measure_list)
     print(whether_image_list)
