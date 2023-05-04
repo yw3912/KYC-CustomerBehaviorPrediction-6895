@@ -1,0 +1,126 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="card" style="width: 60rem">
+        <div class="card-header">
+          <div class="row">
+            <div class="col">
+              <h3>Let's test creativity</h3>
+            </div>
+            <div class="col">
+              <button class="btn btn-link collapsed float-end" data-toggle="collapse" data-target="#collapse-L1"
+                      aria-expanded="true" aria-controls="collapse1" (click)="toggleCard('review')">
+                <!-- Hello -->
+                <i class="fa fa-plus-square" style="font-size:18px;color:black"></i></button>
+            </div>
+          </div>
+        </div>
+        <div class="card-body" *ngIf="toggleReview">Put in Review Url : <input type="text" class="form-control"
+                                                                              [(ngModel)]="link">
+          <p></p>
+            <button type="button" (click)="onLookup()" class="btn btn-primary">Search</button>
+<!--          <button type="button" (click)="onShowAdd()" class="btn btn-primary">Add</button>-->
+<!--          <div>{{notice}}</div>-->
+          <p></p>
+          <table class="table table-striped">
+            <thead>
+            <tr>
+<!--              <th scope="col">Link</th>-->
+              <th scope="col">Creativity</th>
+<!--              <th scope="col">User Name</th>-->
+<!--              <th scope="col">First Name</th>-->
+<!--              <th scope="col">Last Name</th>-->
+<!--              <th scope="col">Phone</th>-->
+            </tr>
+            </thead>
+            <tbody>
+<!--            <tr class="card-body" *ngIf="toggleAdd">-->
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="addEmailId"></td>-->
+
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="addUserName "></td>-->
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="addFirstName"></td>-->
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="addLastName"></td>-->
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="addPhone"></td>-->
+<!--              <td><button type="button" (click)="onAdd()" class="btn btn-primary">Add</button></td>-->
+<!--            </tr>-->
+
+<!--            <tr class="card-body" *ngIf="toggleUpdate">-->
+<!--              <td>{{updateEmailID}}</td>-->
+
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="updateUserName "></td>-->
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="updateFirstName"></td>-->
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="updateLastName"></td>-->
+<!--              <td><input type="text" class="form-control"-->
+<!--                                                    [(ngModel)]="updatePhone"></td>-->
+<!--              <td><button type="button" (click)="onUpdate()" class="btn btn-primary">Update</button></td>-->
+<!--            </tr>-->
+            <tr *ngFor="let p of reviewInfo; index as i">
+<!--              <td>{{ p.link }}</td>-->
+              <td>{{ p.creativity }}</td>
+<!--              <td>{{p.username }}</td>-->
+<!--              <td>{{ p.firstname }}</td>-->
+<!--              <td>{{ p.lastname }}</td>-->
+<!--              <td>{{p.phone }}</td>-->
+<!--              <td><button type="button" (click)="onDelete(p.emailID)" class="btn btn-primary">Delete</button></td>-->
+<!--              <td><button type="button" (click)="onShowUpdate(p.emailID)" class="btn btn-primary">Update</button></td>-->
+            </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class='container-fluid'>
+        <div class='row home_title'>
+
+        </div>
+        <div class='row justify-content-center'>
+            <div class='home_box'>
+                Creativity Scoring
+            </div>
+        </div>
+        <div class='row justify-content-center'>
+
+<!--            <button type="button" class="btn btn-primary home_button" onclick="location.href='/sound/1'">Log in-->
+<!--            </button>-->
+
+        </div>
+
+<!--        <div>-->
+<!--            <img src='https://uploads-ssl.webflow.com/626ce13d6bd421572ad5dceb/626ce13e6bd4210cacd5dd14_hero-image04.svg'-->
+<!--                 class='p p1'>-->
+<!--        </div>-->
+<!--        <div>-->
+<!--            <img src='https://uploads-ssl.webflow.com/626ce13d6bd421572ad5dceb/626ce13e6bd421d708d5dd0f_hero-image10.svg'-->
+<!--                 class='p p2'>-->
+<!--        </div>-->
+        <div>
+            <img src='https://uploads-ssl.webflow.com/626ce13d6bd421572ad5dceb/626ce13e6bd421aa60d5dd23_hero-image03.svg'
+                 class='p p3'>
+        </div>
+        <div>
+            <img src='https://uploads-ssl.webflow.com/626ce13d6bd421572ad5dceb/626ce13e6bd4215411d5dd10_hero-image08.svg'
+                 class='p p4'>
+        </div>
+        <div>
+            <img src='https://uploads-ssl.webflow.com/626ce13d6bd421572ad5dceb/626ce13e6bd4217a28d5dd16_hero-image06.svg'
+                 class='p p5'>
+        </div>
+        <div>
+            <img src='https://uploads-ssl.webflow.com/626ce13d6bd421572ad5dceb/626ce13e6bd421940ed5dd28_hero-image02.svg'
+                 class='p p6'>
+        </div>
+        <div>
+            <img src='https://uploads-ssl.webflow.com/626ce13d6bd421572ad5dceb/626ce13e6bd421209bd5dd18_hero-image09.svg'
+                 class='p p7'>
+        </div>
+    </div>

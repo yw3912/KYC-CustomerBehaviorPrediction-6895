@@ -1,0 +1,106 @@
+h3 {
+  color: blue;
+}
+.home_title{
+  padding: 120px 0px 20px 0px;
+}
+.home_button{
+color:black;
+letter-spacing: 3px;
+text-align: center;
+font-weight:bold;
+background-color: #A0BCC2;
+border-color: black;
+border-width: thick;
+box-shadow: -1px 1px 1px 1px black;
+margin: 20px 0px 40px 0px;
+}
+.home_box{
+color: #111; font-family: 'Helvetica Neue', sans-serif; font-size: 75px; font-weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+  margin-top: 160px;
+  margin-bottom: 40px;
+}
+.p{
+
+  max-width: 12%;
+max-height: 100vh;
+width: auto;
+margin: auto;
+}
+/*.p1{*/
+/* position: absolute;*/
+
+/* top: 5%;*/
+/* left: 12%;*/
+/* -webkit-transform: rotate(15deg);*/
+/*    -moz-transform: rotate(15deg);*/
+/*    -o-transform: rotate(15deg);*/
+/*    -ms-transform: rotate(15deg);*/
+/*    transform: rotate(15deg);*/
+/*}*/
+/*.p2{*/
+/* position: absolute;*/
+
+/* top:  5%;*/
+/* right: 12%;*/
+/* -webkit-transform: rotate(10deg);*/
+/*    -moz-transform: rotate(10deg);*/
+/*    -o-transform: rotate(10deg);*/
+/*    -ms-transform: rotate(10deg);*/
+/*    transform: rotate(10deg);*/
+/*}*/
+.p3{
+ position: absolute;
+
+ top:  57%;
+ left: 5%;
+ -webkit-transform: rotate(24deg);
+    -moz-transform: rotate(24deg);
+    -o-transform: rotate(24deg);
+    -ms-transform: rotate(24deg);
+    transform: rotate(24deg);
+}
+.p4{
+ position: absolute;
+
+ top: 57%;
+ right: 5%;
+ -webkit-transform: rotate(-20deg);
+    -moz-transform: rotate(-20deg);
+    -o-transform: rotate(-20deg);
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+}
+.p5{
+ position: absolute;
+z-index: -1;
+ top: 80%;
+left: 45%;
+ -webkit-transform: rotate(-8deg);
+    -moz-transform: rotate(-8deg);
+    -o-transform: rotate(-8deg);
+    -ms-transform: rotate(-8deg);
+    transform: rotate(-8deg);
+}
+.p6{
+ position: absolute;
+z-index: -1;
+ top: 95%;
+left: 5%;
+ -webkit-transform: rotate(-28deg);
+    -moz-transform: rotate(-28deg);
+    -o-transform: rotate(-28deg);
+    -ms-transform: rotate(-28deg);
+    transform: rotate(-28deg);
+}
+.p7{
+ position: absolute;
+z-index: -1;
+ top: 95%;
+right: 5%;
+ -webkit-transform: rotate(28deg);
+    -moz-transform: rotate(28deg);
+    -o-transform: rotate(28deg);
+    -ms-transform: rotate(28deg);
+    transform: rotate(28deg);
+}
