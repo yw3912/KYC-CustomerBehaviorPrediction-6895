@@ -78,10 +78,13 @@ class Reviews:
 if __name__ == '__main__':
     asin_list = ['B094PS5RZQ', "B01ASGKN8O", "B07NQJ4XM6", "B095YJW56C", "B07N2F3JXP", "B09223P6Q3", "B0859PX8H9",
                  "B00778B90S", "B007HJOQ0W", "B086Z79HXS", "B076CJFMT8"]
+    asin_list2 = ["B088TSR6YJ", "B07G43XJ63", "B0BJMV9BXJ", "B08R13J8F2"]
     # asin_list = ['B007HJOQ0W']
-    for i in range(len(asin_list)):
+    # for i in range(len(asin_list)):
+    for i in range(len(asin_list2)):
         results = []
-        asin = asin_list[i]
+        # asin = asin_list[i]
+        asin = asin_list2[i]
         amz = Reviews(asin, i)
         # reviews = amz.pagination(1)
         # print(amz.parse(reviews))
@@ -104,7 +107,7 @@ if __name__ == '__main__':
         amz.save(results)
 
     # data = []
-    # for name in asin_list:
+    # for name in (asin_list+asin_list2):
     #     address = "json/" + name + "-reviews.json"
     #     with open(address, 'r') as f:
     #         file_data = json.load(f)

@@ -20,6 +20,7 @@ import pandas as pd
 first_date_available_list = ["June 1, 2021", "January 12, 2016", "February 14, 2019", "May 30, 2021",
                              "September 13, 2019", "September 24, 2021", "August 17, 2020", "February 15, 2011",
                              "February 1, 2012", "April 10, 2020", "October 11, 2017"]
+first_date_available_list2 = ["May 19, 2020", "August 2, 2018", "October 18, 2022", "August 4, 2021"]
 count_review = 0
 
 try:
@@ -135,47 +136,57 @@ def get_count_helpful(review_list):
 
 def buildup_dataset(review_list):
     get_count_review(review_list)
-    print(f"There are {count_review} numer of reviews")
+    print(f"There are {count_review} number of reviews")
 
     # point 1: the length of the review by words
     get_body_length(review_list)
     print(review_length_list)
+    # print(len(review_length_list))
 
     # point 2: the count of keywords in the review, filter by NLTK package methods
     keywords = get_keywords(review_list)
-    # with open('key_word_list.pickle', 'wb') as file:
-    #     pickle.dump(keywords, file)
+    with open('key_word_list.pickle', 'wb') as file:
+        pickle.dump(keywords, file)
     get_keywords_number(keywords)
     print(count_keyword_list)
+    # print(len(count_keyword_list))
+
 
     # point 3: word diversity in the review
     get_word_diversity(review_list)
     print(word_diversity_measure_list)
+    # print(len(word_diversity_measure_list))
 
     # point 4: word complexity in the review
     get_word_complexity(review_list)
     print(word_complexity_measure_list)
+    # print(len(word_complexity_measure_list))
 
     # point 5: whether this review contains image
     get_whether_image(review_list)
     print(whether_image_list)
+    # print(len(whether_image_list))
 
     # point 6: whether this review contains emoji
     get_whether_emoji(review_list)
     print(whether_emoji_list)
+    # print(len(whether_emoji_list))
 
     # point 8: the day difference between first available date and the posted available date
     get_timing(review_list)
     print(timing_list)
+    # print(len(timing_list))
 
     # point 9: the count of people who think this review is helpful
     get_count_helpful(review_list)
     print(count_helpful_list)
+    # print(len(count_helpful_list))
 
     # point 10: the target variable: the divergent thinking score
     with open("creativity_measure_list.pickle", 'rb') as f:
         creativity_measure_list = pickle.load(f)
     print(creativity_measure_list)
+    # print(len(creativity_measure_list))
 
     df = pd.DataFrame({"review_length": review_length_list, "number_of_keywords": count_keyword_list,
                        "word_diversity": word_diversity_measure_list, "word_complexity": word_complexity_measure_list,

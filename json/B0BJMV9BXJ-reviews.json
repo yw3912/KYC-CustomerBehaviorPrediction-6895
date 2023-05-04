@@ -1,0 +1,910 @@
+[
+  [
+    {
+      "title": "Tide Is It In My House",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Bria Moonflower",
+      "body": "No other washing detergent exist for my household. Tide is it. It cleans our clothes exceptionally well. It gets rid of the sweaty smell, and the stains disappear on every wash. And with the pods, it takes the hassle of measuring out of the equation. No accidental messy spills. No way of using too much. These pods are perfection if nothing else is. I wouldn't dare buy another brand. Tide is the beginning and end for our clothes.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "April 22, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Cleanliness in a pod",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Jon, a carpenter & more",
+      "body": "A great change from liquids that can spill and add to much add to little. Makes doing chores just a bit easier and a better plan as well, IE its easier to know how many pods / how many washes you have so how often you have to order more pods....😁And great to try and save a little more money here and there, Tide recommends wash in cold, and that's how we do ours and it works great. Enjoy.",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "April 4, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great Value",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Philip",
+      "body": "Great value for the quantity you get. Love using this scent. The scent is not too strong and cleans clothes effectively.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "April 24, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Love these!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Ryan Keith",
+      "body": "Really love the scent on these. Super easy to use as well. Price might be a little more than others, but worth it to me.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "April 18, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Our go-to",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Teak",
+      "body": "So convenient to use, just get them on sale because they’re a bit pricey",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "April 21, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great Laundry Detergent, Convenient Design",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Sammi",
+      "body": "Recently have switched from pourable liquid detergent to pods and I am very happy with these Tide Pods. The packaging is great and offers a locking lid that is easy to take off. This detergent keeps my clothes clean and smelling fresh! I have found that one pod is typically enough, even for a large laundry load. Great price point!",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "March 27, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Excellent value",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "D. Snow",
+      "body": "Fantastic buy! Great value on Tide pods.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "April 24, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Good product overall",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Juan Preciado",
+      "body": "Works great and cloth stay clea",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "April 24, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Everything Gets Cleaner with Tide",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Jim Morris",
+      "body": "We have always used Tide in cold water (to conserve energy/electricity), and when we found product at this price, we jumped on it. We are trying to get away from filling up the landfills.",
+      "people_count": 3,
+      "image_usage": 0,
+      "written_date": "April 6, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Laundry",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Kenneth Oldham",
+      "body": "thanks works great",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "April 19, 2023",
+      "product_index": 2
+    }
+  ],
+  [
+    {
+      "title": "Best price",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Lauri",
+      "body": "I couldn't believe the price. It's so much lower than the other tides I looked at. Love tide",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "April 10, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Good stuff",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "shawn sieminski",
+      "body": "These particular pods seem better than the others clothes smell good and come out very clean",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "April 10, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Tired of using liquid detergent?",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Dionisius",
+      "body": "Then give these a try. You don't need to portion out anything since you can simply pop one to three of these in and turn on the washer. These will also dissolve in cold water, so be sure to turn it to that setting to save yourself some money.The scent will not blow you away, but it's there. I combine it with scent boosters to get an extra kick.Overall, it's a nice product that makes doing laundry just a little bit easier by .0005%.",
+      "people_count": 3,
+      "image_usage": 0,
+      "written_date": "March 13, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great buy.",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "caressa kreis",
+      "body": "Okay his was a good buy. Good price, good value. I would purchase it again.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "April 16, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "great",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Nancy Jimenez",
+      "body": "smells great and fast delivery!",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "April 12, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Cassandra",
+      "body": "Tide pods, the OG. Gotta love a classic.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "April 8, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "None",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "nurse1",
+      "body": "I xcellent",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "April 13, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "They aren't food",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Eros Expressions",
+      "body": "They are meant to wash laundry. They do that well. Do not eat",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "March 29, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Time saver",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Roger Randall",
+      "body": "Takes the guesswork out of laundry. This product is actually saving the family money.",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "March 29, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Tide",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "James w feaster",
+      "body": "ExcellantI like",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "April 6, 2023",
+      "product_index": 2
+    }
+  ],
+  [
+    {
+      "title": "Love tide!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "teach25",
+      "body": "I won’t use any other detergent except Tide. It is worth the money and way easier to use for laundry.",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "March 22, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Laundry",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Brenda Waters",
+      "body": "Cleans clothes great",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "April 5, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Good wash!🧼",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Elena",
+      "body": "I have been enjoying to use this product for a few years now. I only use it with towels, clothes and sheets. Other things that I wash I use laundry powder detergent. What I like about this product is the softener clothes smell good and are soft.",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "March 7, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Love the size",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Rick",
+      "body": "Glad they came out with this larger size",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 29, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Love pods!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Krystina",
+      "body": "Great smell, super easy to use- love that it's foolproof for my kiddos to do laundry. Lol no spills or too much used!",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "March 19, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great product",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "L. Kies",
+      "body": "Bought these when there was a discount which was great. I use them to replenish my plastic container of Tide pods. The safety zipper on these plastic bags is a bit hard to use for my hands but putting them into the larger plastic container helped. They clean my close well and have a great scent after the wash. Clothes come out clean and fresh!",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "February 22, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Tide",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Bettye Smith",
+      "body": "Love this product, Great value for the price.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "March 19, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "cute",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Dylan",
+      "body": "easy to use and saves tons of time and space",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 17, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Cleans great",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Sharri",
+      "body": "One pod for small loads. 2 for larger loads good value for the $$",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "March 17, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "WORKS",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Jack A Goin",
+      "body": "Gave one to the kids and didnt see em all day. Works Great",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "March 11, 2023",
+      "product_index": 2
+    }
+  ],
+  [
+    {
+      "title": "Clean and refreshing",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "xiaopingli",
+      "body": "There is a fragrant smell, and the clothes are washed very clean.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 18, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Perfect size lasts all month",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "A Brann",
+      "body": "Great value and sent smells great. Clothes come clean and fresh.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 15, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Tide been in my family for years.",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "JW",
+      "body": "Get my clothes clean, never disappoint.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "March 18, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Smells great, gets cloths clean!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Baclash",
+      "body": "Works great, waste less products having them them portioned.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "March 14, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great product.",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Teresa Gissible",
+      "body": "I have used this for years. Love it. It’s so easy to use. Works great in the soiled laundry. Fresh fragrance. I’m very pleased. Yes, I’d recommend it.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 4, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Love this",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Josh",
+      "body": "I love they way the clothes smell after every wash. Easy to use and good price per pod",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 7, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Quite efficient",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Yash Kawade",
+      "body": "Hassle free. Just put according to load and it will take care of the rest.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 10, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Big",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Nahol",
+      "body": "Its was so much bigger than i expected, wotrth of Money to buy",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 8, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Works great",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Terry Neenan",
+      "body": "Easy to sue and smell nice but they are expensive.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "March 8, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "So clean",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Susan Perry",
+      "body": "Does a great job on my laundry",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 14, 2023",
+      "product_index": 2
+    }
+  ],
+  [
+    {
+      "title": "Great buy",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Charlene O'",
+      "body": "Bought as a Deal of the Day.Great price, great product, great buy, product works GREAT !!Kept one, gave the other 2, to family.Perfect purchase to share !!!",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "February 25, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Good product",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Momster",
+      "body": "Good",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 16, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Easy to use",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Amazon Customer",
+      "body": "Light-weight!No heavy containers to lift.Great for the weak & elderlyPre-measured saves money.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 4, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great Laundry Detergent",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "renoy varghese",
+      "body": "This is very convenient way to do you laundry. PODS are the way to go. This should be used in HE machines and works great in cleaning you cloths and removing tough stains.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "February 17, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Amazon",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Angel",
+      "body": "Besides my package being left outside my apartment doors and not at my door.... everything is good",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 1, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Wonderful wash and smell!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Martin Lepek",
+      "body": "Great product",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 14, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "They are so easy to use",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Pattie & MistyBlue",
+      "body": "Tide PODS Laundry Detergent Soap Pods, Spring Meadow Scent. This is sure is a great way for me too have some laundry ,alwayys on hand for us.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 14, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "My favorite chemicals;",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Kalika",
+      "body": "I know this isn't good for me, but I love the scent.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 28, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Me encanta este producto",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Karina Figueroa",
+      "body": "Es muy económico y excelente calidad",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 2, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Tide",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "sherry shortt",
+      "body": "tide is the best detergent that I have ever used!",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 24, 2023",
+      "product_index": 2
+    }
+  ],
+  [
+    {
+      "title": "Ease of usevv",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "kdutton",
+      "body": "At this time in my life, I have crippling RA in my hands. It is difficult for my to lift boxes of soap which are liquid or powder. These pods are great to use. Plus I love Tide.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "February 6, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "soap",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Amazon Customer",
+      "body": "very satisfied fast shipping",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 2, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Obsessed with this softner!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Raquel",
+      "body": "This softeners by far my favorite, and it just feels so clean because it’s clear and just amazing. I usually get arm and hammer detergent but this combo was great so. Awesome purchase highly suggest!",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 6, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Happy to have refills available",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Anne B. Orr",
+      "body": "Tide is our favorite laundry detergent (my grandmother and mother were also fans). Glad there are no plastic containers with every purchase now.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "February 14, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "My favorite one",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Laura",
+      "body": "I love you this product,it smells good and easy to use,every time when I go to laundry store,I don't need to bring bottle,just take whatever I need",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 8, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great detergent. cheap detergent don’t work .",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Amazon Customer",
+      "body": "I tried Sun detergent that was a mistake it don’t work . None of the cheap detergents work cause they don’t have enzymes that break down stains and odors . It was costing more money using the cheap stuff . One box of Tide pods 112 will last me two months. The other stuff I would use two bottles a month which cost more and more plastic in the trash . So I lose on both ends .",
+      "people_count": 3,
+      "image_usage": 0,
+      "written_date": "January 8, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great product",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Rebecca",
+      "body": "Great product",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 23, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Tide Pods-Spring Meadow Scent",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Joni Caraway",
+      "body": "Tide is the only brand laundry soap my family uses! We love the convenience of the pods and the scent leaves our clothes smelling fresh.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 5, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Use cold water",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Lana",
+      "body": "Great price value, leaves clothes feeling fresh and clean, and they last for over three months!",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 9, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Smells good.",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "melanie",
+      "body": "Clothes are clean and smells good.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 8, 2023",
+      "product_index": 2
+    }
+  ],
+  [
+    {
+      "title": "Tide pods",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Nancy",
+      "body": "I love how they clean my clothes. A big load I use 2.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 10, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "I've always loved...",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Kay Ann Story",
+      "body": "Tide Pods and the scent is so nice!",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 31, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "I LOVE TIDE PODS!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Robyn J. Garrett",
+      "body": "I dont dislike anything about the Tide Pods except when the stores cant keep the Pods on the shelf...I LOVE the added fabric softener and when I\"m doing laundry I cant tell you how many people follow their noses in and say OMG what is that WONDERFUL smell? I proudly say...\"TIDE PODS! and mostly they reply ...I should have known....(smile)",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 13, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Convenient",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Katebookmangmail Com",
+      "body": "It’s so easy to just throw them in the washer and be done!",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 7, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "It si TIDE.",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "the Mayfield",
+      "body": "Hey, It's Tide..",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 16, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "I have used Tide for years,that alone explains that I am well pleased",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "What I needed",
+      "body": "Just as advertised",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 14, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "If you have really stinky stuff go with the Tide sport",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Stephanie Bolen",
+      "body": "I'm sure everyone knows how pods work, toss them in and then let the washer do it's thing. The scent is pleasant but not strong. It won't take care of strong smelling stink like mildew but, for everyday stuff it works. I think the tub is good value for the money. This should last us six months to a year.",
+      "people_count": 6,
+      "image_usage": 0,
+      "written_date": "December 3, 2022",
+      "product_index": 2
+    },
+    {
+      "title": "price",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "tom kirckof",
+      "body": "it works great and the price was right.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 22, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Good",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Javier",
+      "body": "Good",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 13, 2023",
+      "product_index": 2
+    }
+  ],
+  [
+    {
+      "title": "Great Value",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Ninnyof4",
+      "body": "Great value. I love the downy for getting smells out of clothing. I will be purchasing it again.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 27, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Smells",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Elzie Gray",
+      "body": "It works",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 8, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great deal",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Cassie",
+      "body": "Detergent works well in cold water.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 15, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Great buy",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Helen Warf",
+      "body": "Won't use anything else.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "February 1, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Recycling using bags is best",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Bobbi Fauser",
+      "body": "I buy these and dump them into my plastic container of Tide pods. That way I’m not throwing away those giant plastic containers all the time.",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "January 16, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Smellin guud",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Edgar",
+      "body": "Awesome washing combo",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 30, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "great product, good price, great shipping",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "RJ Roderick",
+      "body": "thank you for being a great seller and for great products living up to PRIME standards.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 18, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "I love my tide!!!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Joyce",
+      "body": "I use it for laundry and it just cleans better!",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 23, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Awesome",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Ashley Hilliard",
+      "body": "Smells awesome, great deal, very happy.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 26, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Good price for quantity",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Pranesh Madhavan",
+      "body": "For this price, it’s worth getting",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "December 28, 2022",
+      "product_index": 2
+    }
+  ],
+  [
+    {
+      "title": "Great deal",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Tyrone Biggins",
+      "body": "Great deal",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 28, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Stains gone!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "sue u.",
+      "body": "Items I always pretreat no longer need to be. I couldn't believe how well these pods performed! I use cold water Tide liquid, but most stores don't carry it. The pods are excellent.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "December 22, 2022",
+      "product_index": 2
+    },
+    {
+      "title": "Both products are fine. Packing was poor.",
+      "rating": "3.0 out of 5 stars",
+      "customer_id": "Bob & Nancy Sanchez",
+      "body": "I would give the products 5 stars but the packing was poor. Putting an 18lb box of kitty litter with a 6 lb container of laundry detergent in one box that was too small for those two items was a bad idea. The total weight of the box was nearly 25 lbs. Luckily both items arrived intact if a bit squished.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "March 5, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Tide pods",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Trina Harper",
+      "body": "Good price",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 24, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Easy to use",
+      "rating": "4.0 out of 5 stars",
+      "customer_id": "Amazon Customer",
+      "body": "The scent was really good in the beginning after opening the bag, the clothes smelled so good after washing but now seems to be loosing the smell.",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "October 23, 2022",
+      "product_index": 2
+    },
+    {
+      "title": "Cold water loves it!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "BSN RN",
+      "body": "I grew up using Tide products. Was getting upset when using Tide pods with cold water. They weren't dissolving. These particular pods are designed to dissolve in cold water. No longer finding them stuck to my clothes! They work well in hot and warm water too. I can't find these in stores. I've got them on an Amazon subscription so I don't run out. I have two laundry areas and find these don't take up a lot of space. Cold water saves you money. Try these!",
+      "people_count": 3,
+      "image_usage": 0,
+      "written_date": "October 1, 2022",
+      "product_index": 2
+    },
+    {
+      "title": "Amazing",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Kain",
+      "body": "Bought these for my girlfriend who has a dog and she absolutely loves the smell of the tide pods. I was particularly interested in the Pet dryer sheets to see if they really work and she says they do! Would recommend and buy again :)",
+      "people_count": 3,
+      "image_usage": 0,
+      "written_date": "November 21, 2022",
+      "product_index": 2
+    },
+    {
+      "title": "Tide is the best laundry detergent!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "West Coast Girl",
+      "body": "I tried a lot of laundry detergents, especially when new ones appear on the market, but I keep returning to Tide. Nothing else gets my clothing as clean and fresh as Tide. These pods are very handy as it is easy to see how many more washes I have before I have to repurchase. Love the pods!",
+      "people_count": 2,
+      "image_usage": 0,
+      "written_date": "October 24, 2022",
+      "product_index": 2
+    },
+    {
+      "title": "Great Detergent!!",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Timothy Hughes",
+      "body": "Love that clothes smell great after wash!!",
+      "people_count": 0,
+      "image_usage": 0,
+      "written_date": "January 9, 2023",
+      "product_index": 2
+    },
+    {
+      "title": "Cleaner for Sure",
+      "rating": "5.0 out of 5 stars",
+      "customer_id": "Elizabeth A Bowles",
+      "body": "Tide couldn't be any cleaner. Clothes are REALLY Cleaner with this product.",
+      "people_count": 1,
+      "image_usage": 0,
+      "written_date": "December 30, 2022",
+      "product_index": 2
+    }
+  ]
+]
